@@ -20,7 +20,7 @@ idna==2.6
 itsdangerous==0.24
 Jinja2==2.10
 kombu==4.2.1
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 Pillow==5.1.0
 PyMySQL==0.8.1
